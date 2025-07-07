@@ -1,3 +1,7 @@
+"scripts": {
+  "start": "node src/bot.js"
+}
+
 {
   "name": "workspace",
   "version": "1.0.0",
